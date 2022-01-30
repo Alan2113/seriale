@@ -1,0 +1,33 @@
+body
+{
+	font-family: Jazz LET;
+	font-style: fantasy;
+	font-size: 20px;
+	color: white;
+}
+
+h1
+{
+	font-size: 108px;
+	font-style: fantasy;
+	color: #336699 !important;
+	font-family: Jazz LET;
+}
+
+/* Nieodwiedzony link */
+a:link
+{
+	color: grey;
+}
+
+/* Odwiedzony link */
+a:visited
+{
+	color:grey;
+}
+
+/* Link po najechaniu kursorem */
+a:hover
+{
+	color: orange;
+}
